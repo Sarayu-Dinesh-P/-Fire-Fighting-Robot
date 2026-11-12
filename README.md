@@ -43,7 +43,3 @@ The robot also integrates a SIM800L GSM module to send SMS alerts and make emerg
 **Platform:** Arduino UNO R3  
 **Domain:** Embedded Systems and Robotics
 
----
-```
-
-You can add circuit diagrams, project photos, videos, and source code under separate sections as you upload them to GitHub.
